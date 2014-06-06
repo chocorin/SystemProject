@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from プロジェクト &apos;CharacterRecognizer&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;CharacterRecognizer&apos;&#x0D;&#x0A;- オリジナル要素: &apos;CharacterRecognizer/src/Samples8Bgif&apos;" description="要素の削除" element1="/src&lt;Samples8Bgif" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1402038154371" subPackages="false" version="1.0"/>
+</session>
